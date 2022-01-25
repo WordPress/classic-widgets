@@ -35,4 +35,4 @@ No, there are no settings. Once activated, this plugin restores the previous ("c
 
 = Does this work with full site editing and block themes? =
 
-No, as a block themes relies on blocks. [See Block themes article](https://wordpress.org/support/article/block-themes/) for more information.
+No, as block themes rely on blocks. [See Block themes article](https://wordpress.org/support/article/block-themes/) for more information.
