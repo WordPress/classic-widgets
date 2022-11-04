@@ -12,7 +12,7 @@ Enables the previous "classic" widgets settings screens in Appearance - Widgets 
 
 == Description ==
 
-Classic Widgets is an official plugin maintained by the WordPress team that restores the previous ("classic") WordPress widgets settings screens. It will be supported and maintained until at least 2022, or as long as is necessary.
+Classic Widgets is an official plugin maintained by the WordPress team that restores the previous ("classic") WordPress widgets settings screens. It will be supported and maintained to 2024, or as long as is necessary.
 
 Once activated and when using a classic (non-block) theme, this plugin restores the previous widgets settings screens and disables the block editor from managing widgets. There is no other configuration, the classic widgets settings screens are enabled or disabled by either enabling or disabling this plugin.
 
