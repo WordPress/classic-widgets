@@ -1,0 +1,33 @@
+{
+    "landingPage": "/wp-admin/widgets.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login",
+            "username": "admin",
+            "password": "password"
+        },
+        {
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "wordpress.org/plugins",
+                "slug": "classic-widgets"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+        {
+            "step": "installTheme",
+            "themeZipFile": {
+                "resource": "wordpress.org/themes",
+                "slug": "twentytwentyone"
+            },
+            "options": {
+                "activate": true
+            }
+        }
+    ]
+}
