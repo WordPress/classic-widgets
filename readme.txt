@@ -1,5 +1,5 @@
 === Classic Widgets ===
-Contributors: wordpressdotorg, hellofromtonya, azaozz
+Contributors: wordpressdotorg, hellofromtonya, azaozz, ironprogrammer
 Tags: gutenberg, disable, disable gutenberg, editor, classic widgets
 Requires at least: 4.9
 Tested up to: 6.5
