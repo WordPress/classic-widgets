@@ -2,7 +2,7 @@
 Contributors: wordpressdotorg, hellofromtonya, azaozz, ironprogrammer
 Tags: gutenberg, disable, disable gutenberg, editor, classic widgets
 Requires at least: 4.9
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 0.3
 Requires PHP: 5.6
 License: GPLv2 or later
