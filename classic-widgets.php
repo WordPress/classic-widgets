@@ -24,7 +24,7 @@
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
-	die( 'Invalid request.' );
+	die( esc_html__('Invalid request.', 'classic-widgets') );
 }
 
 // Disables the block editor from managing widgets in the Gutenberg plugin.
